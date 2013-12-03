@@ -1,0 +1,4 @@
+# Ignore
+Berksfile.lock
+.vagrant
+.DS_Store

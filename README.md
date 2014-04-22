@@ -10,11 +10,11 @@ Wordpress theme development env - Vagrant, chef, berkshelf.
 Dependencies
 ------------
 
-1. **[Download Virtual Box](http://https://www.virtualbox.org/wiki/downloads)**
+1. **[Download Virtual Box (4.3.6)](http://https://www.virtualbox.org/wiki/downloads)**
 
-2. **[Install Ruby >= 1.9](http://octopress.org/docs/setup/rvm/)**
+2. **[Install Ruby (2.0.0p247)](http://octopress.org/docs/setup/rvm/)**
 
-3. **[Install Vagrant](http://downloads.vagrantup.com/)**
+3. **[Install Vagrant (1.5.4)](http://downloads.vagrantup.com/)**
 
 4. **Install Berkshelf:** `gem install berkshelf`
 
